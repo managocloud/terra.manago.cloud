@@ -1,3 +1,3 @@
-.home-about div.avatar img {
+.home-about div.avatar img, nav.header-nav div.avatar img  {
   border-radius: 25%;
 }
