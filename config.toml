@@ -83,7 +83,7 @@ title = 'Terra Luna 2.0 staking'
 #  weight = 1
   [[params.social]]
   icon = "ti-twitter-alt"
-  url = "https://twitter.com/lklimek"
+  url = "https://twitter.com/managocloud"
   weight = 2
   [[params.social]]
   icon = "ti-github"
