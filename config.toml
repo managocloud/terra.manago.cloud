@@ -34,10 +34,14 @@ title = 'Terra Luna 2.0 staking'
   name = "FAQ"
   url= "#faq"
   weight = 6
+  # [[menu.Main]]
+  # name = "Contact"
+  # url= "/contact/"
+  # weight = 7
   [[menu.Main]]
-  name = "Contact"
-  url= "/contact/"
-  weight = 7
+  name = "Status"
+  url= "https://stats.uptimerobot.com/mwVzqHpmMG"
+  weight = 10
 
   # Sitemap Menu
   # [[menu.sitemap]]
