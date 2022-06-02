@@ -1,0 +1,20 @@
+---
+enable: true
+title: "Why Choose us?"
+subtitle: >
+          We secure blockchain using cutting-edge technology, with security in the first place.
+services:
+  - name: "Global Network"
+    description: >
+                To resist technical outages and political instability, we operate our servers in multiple countries worldwide.
+    icon: "ti-view-grid"
+  - name: "Experienced team"
+    description: >
+                We have hands-on development and DevOps experience with multiple Crypto projects,
+                including Tendermint - basic building block of Terra.
+    icon: "ti-github" 
+  - name: "Secure and stable"
+    description: >
+                We put much effort into stability and security of our infrastructure, to ensure high availability of our services.
+    icon: "ti-lock"
+---

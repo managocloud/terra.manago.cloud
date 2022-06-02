@@ -1,0 +1,13 @@
+---
+enable: yes
+title: "Frequently Asked Questions"
+faq:
+  - question: "Q. How can I start staking My LUNA?"
+    answer: >
+            Open [our validator page](https://station.terra.money/validator/terravaloper12qqr5crucyzfxduu2a9glqsuvvadw9828uw9nj)
+            and click "Delegate". See [Terra docs](https://docs.terra.money/docs/learn/terra-station/staking.html) for more details.
+  - question: "Q. Is my staked LUNA secure?"
+    answer: >
+            Even if your LUNA is staked, it is still managed by you and we cannot access it.
+            To ensure it's safe, store it on an offline or hardware wallet, 
+            like [Ledger](https://support.ledger.com/hc/en-us/articles/360017698979-Terra-LUNA-?docs=true).

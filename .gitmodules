@@ -1,0 +1,4 @@
+[submodule "themes/coHub"]
+	path = themes/coHub
+	url = https://github.com/managocloud/hugo-cohub
+	branch = manago
