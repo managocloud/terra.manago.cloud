@@ -87,7 +87,7 @@ title = 'Terra Luna 2.0 staking'
   weight = 2
   [[params.social]]
   icon = "ti-github"
-  url = "https://github.com/lklimek"
+  url = "https://github.com/managocloud"
   weight = 3
 #  [[params.social]]
 #  icon = "ti-instagram"
